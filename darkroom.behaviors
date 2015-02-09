@@ -1,0 +1,4 @@
+[
+ [:app :lt.objs.plugins/load-js "darkroom_compiled.js"]
+ [:darkroom.hello :lt.plugins.darkroom/on-close-destroy]
+ ]

@@ -1,0 +1,6 @@
+{:name "darkroom"
+ :version "0.1.0"
+ :author "Rob Jentzema"
+ :source "https://github.com/clojens/"
+ :desc "Enable experimental getusermedia api devices like the webcam and microphone."
+ :behaviors "darkroom.behaviors"}
